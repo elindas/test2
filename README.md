@@ -9,6 +9,11 @@ Ini link [Google](https://google.com)
 
 Ini link [twitter](https://twitter.com)
 
+- Item A
+- Item B
+- Item C
+
+
 Ini gambar 
 
 ![Image Name](./assets/image/head.png)
