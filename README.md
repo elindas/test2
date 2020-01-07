@@ -11,7 +11,6 @@ Ini link [twitter](https://twitter.com)
 
 - Item A
 - Item B
-- Item C
 
 
 Ini gambar 
